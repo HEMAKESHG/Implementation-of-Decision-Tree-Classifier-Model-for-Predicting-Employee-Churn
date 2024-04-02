@@ -60,6 +60,9 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
+![Screenshot 2024-04-02 162411](https://github.com/HEMAKESHG/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/144870552/618a62bc-9c2c-4395-8bfe-7c4770ae8b08)
+![Screenshot 2024-04-02 162318](https://github.com/HEMAKESHG/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/144870552/62cccf9f-ba03-4aa9-b75d-bac1641e0711)
+![Screenshot 2024-04-02 162347](https://github.com/HEMAKESHG/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/144870552/e1946cfd-ef32-4233-ad0f-e4ccd6b5ee8e)
 
 
 ## Result:
